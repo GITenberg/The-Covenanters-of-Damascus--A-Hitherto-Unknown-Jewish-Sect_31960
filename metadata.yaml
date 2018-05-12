@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35574
     wikipedia: http://en.wikipedia.org/wiki/George_Foot_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31960#The-Covenanters-of-Damascus--A-Hitherto-Unknown-Jewish-Sect
 gutenberg_issued: '2010-04-12'
 gutenberg_type: Text
 identifiers:
